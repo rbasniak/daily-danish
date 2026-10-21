@@ -16,3 +16,9 @@ Em Settings → Pages → Build and deployment, escolha **Deploy from a branch**
 Botões reproduzem Google Translate TTS na página. A política `no-referrer` é definida no documento e antes do src do áudio. Erros e bloqueios oferecem síntese do navegador, se houver uma voz dinamarquesa instalada. Um áudio por vez; botão Parar; nenhuma chave ou dependência. O serviço Google é externo e pode ficar indisponível.
 
 Respostas continuam manuscritas e enviadas no chat. Não há campos de resposta, correção automática, rastreamento ou armazenamento de dados do aluno.
+
+## Legibilidade das lições
+
+- Coloque glossários e apoios antes dos exercícios correspondentes.
+- Cada item do glossário deve ocupar sua própria linha, preferencialmente um `<li>`. Não reúna itens separados por ponto e vírgula em um parágrafo.
+- Use frases e instruções curtas, com uma ação por item quando possível.
